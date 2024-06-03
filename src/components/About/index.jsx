@@ -6,10 +6,10 @@ function About() {
         <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
         </div>
         <p>
-        Hi! My name is Zariah and Welcome to my portfolio! This portfolio, while a project itself, entails some of my other projects as well, so projects within a project
+        Welcome, I'm Zariah! This is my portfolio, made using react. This portfolio, while it is a project itself, contains some of my other projects as well. 
         </p>
         <p>
-        Echo Park sriracha Pinterest vegan biodiesel 90's irony iPhone Kickstarter Carles crucifix kitsch narwhal dreamcatcher pickled trust fund selvage art party letterpress Tumblr post-ironic kogi Thundercats Tonx Brooklyn Pitchfork Odd Future authentic normcore freegan leggings Schlitz chambray organic tousled retro fap squid street art church-key fashion axe Wes Anderson bespoke whatever gentrify banh mi you probably haven't heard of them American Apparel next level pug ugh.
+        This portfolio highlights some of my skills and web developing technologies. While I am proficient in fullstack development, I have a specialty in JavaScript, HTML, Express.js, Node.js, SQL, and more.
         </p>
       </div>
     </section>

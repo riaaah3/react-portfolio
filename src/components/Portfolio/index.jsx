@@ -6,34 +6,34 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surfReport',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Password Randomizer',
+      description: 'JavaScript Password Generator',
+      link: "https://riaaah3.github.io/password-randomizer/",
+      repo: "https://github.com/riaaah3/password-randomizer.git"
     },
     {
-      name: 'pastelPuzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Note Taker',
+      description: 'Express.js application used for taking notes',
+      link: "https://note-taker-1wy5.onrender.com/",
+      repo: "https://github.com/riaaah3/note-taker.git"
     },
     {
-      name: 'runBuddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'My Busy Day',
+      description: 'Scheduler made using Third-Party APIs',
+      link: "https://riaaah3.github.io/my-busy-day/",
+      repo: "https://github.com/riaaah3/my-busy-day.git"
     },
     {
-      name: 'ledWall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Text Editor',
+      description: 'Progressive Web Application',
+      link: "https://text-editor-bhwt.onrender.com/",
+      repo: "https://github.com/riaaah3/text-editor.git"
     },
     {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Accessibility For All',
+      description: 'Accessible Website made using HTML/CSS',
+      link: "https://riaaah3.github.io/accessibility-for-all/",
+      repo: "https://github.com/riaaah3/accessibility-for-all.git"
     },
   ]);
 
